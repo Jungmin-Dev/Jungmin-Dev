@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 
 
-Welcome to my page!
+Welcome to my page!<
 I'm Jungmin,  Web-Developer working in <b>Seoul, Korea! ![image](https://user-images.githubusercontent.com/74536458/168716343-ac92a3e8-b5c6-47a0-b3c1-e7db424be363.png)</b>
 
 <h3>📚 My tech stack</h3>
