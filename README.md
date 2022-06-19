@@ -15,7 +15,7 @@ I'm Jungmin,  Web-Developer working in <b>Seoul, Korea! ![image](https://user-im
 
 
 <h3>💬 My posts</h3>
-<a href="https://velog.io/@kimjungmin96"><b><img src="https://img.shields.io/badge/Velog-007396?style=flat-square&logo=Velog&logoColor=white" />
+<a href="https://velog.io/@kimjungmin96" target="_blank">><b><img src="https://img.shields.io/badge/Velog-007396?style=flat-square&logo=Velog&logoColor=white" />
   
 ## ⚡ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jungmin-Dev&count_private=true&theme=radical" align="left" style="width: 40%" />
