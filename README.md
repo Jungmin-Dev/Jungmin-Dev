@@ -8,7 +8,6 @@ I'm Jungmin,  Web-Developer working in <b>Seoul, Korea! ![image](https://user-im
 
 ![image](https://user-images.githubusercontent.com/74536458/168718378-3297e3be-a162-467f-a2a7-b7b4698a6790.png)
 ![JavaScript](https://user-images.githubusercontent.com/74536458/168718283-35b12714-4ff9-441c-bbc1-280a34558587.png)
-![react](https://user-images.githubusercontent.com/74536458/198956251-f5a28aed-4eb8-4afa-983e-44a3cab5c454.png)
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 ![Java](https://user-images.githubusercontent.com/74536458/168718333-f99e9361-0536-4679-9534-20fded0007ac.png)
 ![Spring](https://user-images.githubusercontent.com/74536458/168718349-24b64710-4635-48e0-9aff-0b06127777be.png)
