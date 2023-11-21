@@ -4,13 +4,27 @@
 Welcome to my page!<br>
 I'm Jungmin, Developer working in <b>Seoul, Korea! ![image](https://user-images.githubusercontent.com/74536458/168716343-ac92a3e8-b5c6-47a0-b3c1-e7db424be363.png)</b>
 
-<h3>📚 My tech stack</h3>
+## 👨‍💻 Programming Languages
+<p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
 
-![image](https://user-images.githubusercontent.com/74536458/168718378-3297e3be-a162-467f-a2a7-b7b4698a6790.png)
-![JavaScript](https://user-images.githubusercontent.com/74536458/168718283-35b12714-4ff9-441c-bbc1-280a34558587.png)
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-![Java](https://user-images.githubusercontent.com/74536458/168718333-f99e9361-0536-4679-9534-20fded0007ac.png)
-![Spring](https://user-images.githubusercontent.com/74536458/168718349-24b64710-4635-48e0-9aff-0b06127777be.png)
+</p>
+
+## 🌐 Frontend Frameworks
+<p>
+    <img alt="Next.js" src="https://img.shields.io/badge/Nextjs%20-000000.svg?logo=Next.js&logoColor=white">
+</p>
+
+## 🧰 Backend Frameworks
+<p>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot%20-6DB33F.svg?logo=Spring Boot&logoColor=white">
+</p>
+
+
+
 
 
 
