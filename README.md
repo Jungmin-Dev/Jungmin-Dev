@@ -20,7 +20,7 @@ I'm Jungmin, Developer working in <b>Seoul, Korea! ![image](https://user-images.
 
 ## 🧰 Backend Frameworks
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot%20-6DB33F.svg?logo=Spring Boot&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white">
 </p>
 
 
